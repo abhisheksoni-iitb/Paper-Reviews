@@ -32,7 +32,7 @@ and Factory Automation (ETFA), Turin, 2018, pp. 139-
 
 <a id="aaa"></a>
 ## Deep Unfolding Network for Image Super-Resolution
-[PDF](https://github.com/abhisheksoni-iitb/Paper-Reviews/blob/main/Deep%20Unfolding%20Network%20for%20Image%20Super-Resolution.pdf)
+[Reviewed Paper PDF](https://github.com/abhisheksoni-iitb/Paper-Reviews/blob/main/Deep%20Unfolding%20Network%20for%20Image%20Super-Resolution.pdf)
 
 **Original paper**
 
