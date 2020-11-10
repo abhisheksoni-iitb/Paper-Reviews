@@ -5,7 +5,7 @@ The Following Papers are reviewed.
 
 <a id="aaa"></a>
 ## Machine learning and AI for Manufacturing 
-[Reviewed Paper PDF](https://github.com/abhisheksoni-iitb/Paper-Reviews/blob/main/Machine%20learning%20and%20AI%20for%20Manufacturing.pdf)
+[Reviewed Paper PDF](Machine-learning-and-AI-for-Manufacturing.pdf)
 
 
 **Original Papers**
@@ -32,11 +32,11 @@ and Factory Automation (ETFA), Turin, 2018, pp. 139-
 
 <a id="aaa"></a>
 ## Deep Unfolding Network for Image Super-Resolution
-[Reviewed Paper PDF](Machine-learning-and-AI-for-Manufacturing.pdf)
+[Reviewed Paper PDF](Deep-Unfolding-Network-for-Image-Super-Resolution.pdf)
 
 **Original paper**
 
-[Deep Unfolding Network for Image Super-Resolution](Deep-Unfolding-Network-for-Image-Super-Resolution.pdf)
+[Deep Unfolding Network for Image Super-Resolution](https://arxiv.org/abs/2003.10428)
 
 
 <a id="aaa"></a>
