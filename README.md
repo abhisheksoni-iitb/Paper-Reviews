@@ -39,3 +39,11 @@ and Factory Automation (ETFA), Turin, 2018, pp. 139-
 [Deep Unfolding Network for Image Super-Resolution](https://arxiv.org/abs/2003.10428)
 
 
+<a id="aaa"></a>
+## Sanity Checks for Saliency Maps 
+
+[Reviewed Paper PDF](Sanity-Checks-for-Saliency-Maps.pdf)
+
+**Original paper**
+
+[Sanity Checks for Saliency Maps ](https://arxiv.org/abs/1810.03292)
